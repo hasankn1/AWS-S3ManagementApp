@@ -1,0 +1,25 @@
+﻿<Window x:Class="Hasan_Khan_301019813_Lab1_COMP306_NEW.ObjectLevelOperations"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hasan_Khan_301019813_Lab1_COMP306_NEW"
+        mc:Ignorable="d"
+        Title="ObjectLevelOperations" Height="470" Width="645">
+    <Grid>
+        <ComboBox x:Name="BucketSelectorComboBox"  SelectionChanged="ComboBox_SelectionChanged" HorizontalAlignment="Left" Margin="58,10,0,0" VerticalAlignment="Top" Width="403" Height="37">
+            <ComboBoxItem>
+
+            </ComboBoxItem>
+        </ComboBox>
+
+        <Label Content="Bucket:" HorizontalAlignment="Left" Margin="8,11,0,0" VerticalAlignment="Top" Width="74"/>
+        <Button Content="Browse" HorizontalAlignment="Left" Margin="58,64,0,0" VerticalAlignment="Top" Height="35" Width="99" Background="#FF6799F0" Foreground="#FFF6F759" FontWeight="Bold" Click="BrowseButton_Click"/>
+        <TextBox x:Name="FileTextBox" HorizontalAlignment="Left" Margin="58,100,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="403" Height="34"/>
+        <Label Content="Object:" HorizontalAlignment="Left" Margin="8,104,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.075,-0.236" Height="26" Width="74"/>
+        <Button Content="Upload" HorizontalAlignment="Left" Margin="58,137,0,0" VerticalAlignment="Top" Height="35" Width="99" Background="#FF6799F0" Foreground="#FFF6F759" FontWeight="Bold" Click="UploadButton_Click"/>
+        <Button Content="Download" HorizontalAlignment="Left" Margin="494,137,0,0" VerticalAlignment="Top" Height="35" Width="100" Background="#FF6799F0" Foreground="#FFF6F759" FontWeight="Bold" Click="DownloadButton_Click"/>
+        <DataGrid x:Name="ObjectDataGrid" Margin="58,174,31,42"/>
+        <Button Content="Back to Main Menu" HorizontalAlignment="Left" Margin="494,11,0,0" VerticalAlignment="Top" Height="42" Width="120" Background="#FF6799F0" Foreground="#FFF6F759" FontWeight="Bold" Click="ExitButton_Click"/>
+    </Grid>
+</Window>
