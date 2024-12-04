@@ -73,14 +73,13 @@ Bucket-Level Operations
 
 Object-Level Operations
 ---
-![Screenshot 2024-12-04 163342](https://github.com/user-attachments/assets/6807aa84-c565-49ab-9605-073f1f9a0adf)
-![Screenshot 2024-12-04 163503](https://github.com/user-attachments/assets/00cc0bc5-4d7c-46b4-abbc-30f81729fae3)
-![Screenshot 2024-12-04 163434](https://github.com/user-attachments/assets/b2b497ff-3612-45c5-a564-f6432e41e3df)
-![Screenshot 2024-12-04 163426](https://github.com/user-attachments/assets/cc585197-bc11-44cd-8ad2-a379f1aa72d5)
-![Screenshot 2024-12-04 163417](https://github.com/user-attachments/assets/8e99e7a3-e1bf-43cb-b1ef-6ca067882996)
-![Screenshot 2024-12-04 163412](https://github.com/user-attachments/assets/e4bc1e0c-2242-42a7-891e-24c85e56e232)
-![Screenshot 2024-12-04 163404](https://github.com/user-attachments/assets/8466fcab-720b-40df-9885-81c66a379410)
-![Screenshot 2024-12-04 163349](https://github.com/user-attachments/assets/3b96ee95-b3b2-40f7-8146-81dcf2fd1c29)
+![Screenshot 2024-12-04 163342](https://github.com/user-attachments/assets/9d6a3f8b-48b0-4474-b056-2818d52e5871)
+![Screenshot 2024-12-04 163349](https://github.com/user-attachments/assets/08c0ef53-17ac-40df-963d-bab21c868bb9)
+![Screenshot 2024-12-04 163404](https://github.com/user-attachments/assets/a8925a31-8a2b-43e0-aeae-54db7bbd6519)
+![Screenshot 2024-12-04 163412](https://github.com/user-attachments/assets/c3153a85-16c7-49a3-be4e-a7e8036a7eeb)
+![Screenshot 2024-12-04 163417](https://github.com/user-attachments/assets/339b4330-43e9-437c-9096-9804fb86632c)
+![Screenshot 2024-12-04 163426](https://github.com/user-attachments/assets/04e0f3df-2217-41d9-bcfa-d9912de3389c)
+![Screenshot 2024-12-04 163434](https://github.com/user-attachments/assets/f83517c1-dc0b-40e9-a4cd-47f17966ff45)
 
 ## 📜 License
 
