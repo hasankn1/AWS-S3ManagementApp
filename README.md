@@ -80,6 +80,8 @@ Object-Level Operations
 ![Screenshot 2024-12-04 163417](https://github.com/user-attachments/assets/339b4330-43e9-437c-9096-9804fb86632c)
 ![Screenshot 2024-12-04 163426](https://github.com/user-attachments/assets/04e0f3df-2217-41d9-bcfa-d9912de3389c)
 ![Screenshot 2024-12-04 163434](https://github.com/user-attachments/assets/f83517c1-dc0b-40e9-a4cd-47f17966ff45)
+![Screenshot 2024-12-04 163503](https://github.com/user-attachments/assets/2153dc98-3c8b-41f3-aa8c-d11d35f1e27c)
+
 
 ## 📜 License
 
