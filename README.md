@@ -1,1 +1,87 @@
-# Hasan_Khan_301019813_Lab1_COMP306_NEW
+# ☁️ AWS S3 Management App
+
+## 🌟 Overview
+
+This project is a WPF application built to interact programmatically with AWS S3. 
+It enables users to manage S3 buckets and objects efficiently with a simple and intuitive GUI. 
+The application demonstrates bucket-level and object-level operations, providing a hands-on approach to understanding AWS S3 and IAM services.
+
+## 🛠️ Features
+1. Graphical User Interface (GUI)
+
+    Main Window: Serves as the entry point to bucket and object operations.
+    Bucket-Level Operations:
+        View, create, and delete S3 buckets.
+        Updates the display dynamically with every action.
+    Object-Level Operations:
+        View objects in selected buckets, upload, and download objects.
+
+2. Bucket-Level Operations
+
+    Retrieve and list all buckets in your AWS account.
+    Create new buckets and dynamically update the display.
+    Delete buckets (empties the bucket if necessary before deletion).
+
+3. Object-Level Operations
+
+    List all objects in a selected bucket.
+    Upload objects to a selected bucket and view them instantly.
+    Download objects locally with a simple click.
+
+## 🧰 Technical Stack
+
+    Languages: C#, XAML
+    Framework: .NET WPF
+    Cloud Services: AWS S3, AWS IAM
+    AWS SDK: AWS SDK for .NET
+
+## 🎯 Project Goals
+
+    Develop a WPF application to interact with AWS S3.
+    Implement bucket-level operations:
+        List, create, and delete buckets.
+    Implement object-level operations:
+        View, upload, and download objects.
+    Ensure code quality, efficiency, and maintainability.
+
+## 📋 Instructions
+
+1. AWS Setup
+
+    IAM Credentials:
+        Create an AWS IAM user with programmatic access and S3 permissions.
+        Save the Access Key ID and Secret Access Key to the appsettings.json.
+
+    S3 Buckets:
+        Use the app to create and manage buckets, or prepare existing buckets in your AWS account.
+
+## 🖼️ Screenshots
+
+Main Window
+---
+![Screenshot 2024-12-04 163145](https://github.com/user-attachments/assets/00482543-df24-4441-afdc-6ae09700fd1f)
+
+Bucket-Level Operations
+---
+![Screenshot 2024-12-04 163159](https://github.com/user-attachments/assets/243fb55c-3d84-4d8a-8100-18b4aff1eb12)
+![Screenshot 2024-12-04 163256](https://github.com/user-attachments/assets/0614f988-cf63-47e8-bec1-79a495aa7624)
+![Screenshot 2024-12-04 163306](https://github.com/user-attachments/assets/5b7a8d6c-d92d-4429-828d-740481454a3f)
+![Screenshot 2024-12-04 163312](https://github.com/user-attachments/assets/ab24168f-9d33-4dd5-83b5-2f048524f5de)
+![Screenshot 2024-12-04 163319](https://github.com/user-attachments/assets/af5ef94a-1ba1-4c1f-af56-5fda8b1465f0)
+![Screenshot 2024-12-04 163327](https://github.com/user-attachments/assets/e95aec25-2440-4bf3-a113-32eba10a5bd2)
+![Screenshot 2024-12-04 163332](https://github.com/user-attachments/assets/d9b54f66-00c5-413f-bea1-20f3d9887a91)
+
+Object-Level Operations
+---
+![Screenshot 2024-12-04 163503](https://github.com/user-attachments/assets/00cc0bc5-4d7c-46b4-abbc-30f81729fae3)
+![Screenshot 2024-12-04 163434](https://github.com/user-attachments/assets/b2b497ff-3612-45c5-a564-f6432e41e3df)
+![Screenshot 2024-12-04 163426](https://github.com/user-attachments/assets/cc585197-bc11-44cd-8ad2-a379f1aa72d5)
+![Screenshot 2024-12-04 163417](https://github.com/user-attachments/assets/8e99e7a3-e1bf-43cb-b1ef-6ca067882996)
+![Screenshot 2024-12-04 163412](https://github.com/user-attachments/assets/e4bc1e0c-2242-42a7-891e-24c85e56e232)
+![Screenshot 2024-12-04 163404](https://github.com/user-attachments/assets/8466fcab-720b-40df-9885-81c66a379410)
+![Screenshot 2024-12-04 163349](https://github.com/user-attachments/assets/3b96ee95-b3b2-40f7-8146-81dcf2fd1c29)
+![Screenshot 2024-12-04 163342](https://github.com/user-attachments/assets/6807aa84-c565-49ab-9605-073f1f9a0adf)
+
+## 📜 License
+
+This project is licensed under the MIT License.
